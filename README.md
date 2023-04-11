@@ -5,7 +5,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Le framework d&#39;organisation personnelle](https://yanncharlou.fr/2022-07-15-mon-organisation/)
+- [Crédits et mentions légales](https://yanncharlou.fr/credits-mentions/)
+- [Développeur Fullstack PHP](https://yanncharlou.fr/cv/)
+- [Le framework d&#39;organisation personnelle](https://yanncharlou.fr/posts/2022-07-15-mon-organisation/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
