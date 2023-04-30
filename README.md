@@ -5,8 +5,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [PRO tip : faire un lien vers un mail](https://example.com/blog/2023-04-15-lien-vers-un-mail/)
-- [Le framework d&#39;organisation personnelle](https://example.com/blog/2022-07-15-mon-organisation/)
+- [PRO tip : faire un lien vers un mail](https://yanncharlou.fr/blog/2023-04-15-lien-vers-un-mail/)
+- [Le framework d&#39;organisation personnelle](https://yanncharlou.fr/blog/2022-07-15-mon-organisation/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
